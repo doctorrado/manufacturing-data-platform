@@ -1,0 +1,20 @@
+project:
+  name: Manufacturing Data Platform
+  version: 1.0.0
+
+paths:
+  raw_data: data/raw
+  staging_data: data/staging
+  processed_data: data/processed
+
+generator:
+  seed: 42
+  days_to_generate: 30
+  frequency_minutes: 1
+
+gcp:
+  project_id: manufacturing-data-platform
+  dataset: manufacturing_dw
+
+logging:
+  level: INFO

@@ -33,3 +33,12 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+
+# Generated data
+data/
+
+# Local database artifacts
+*.duckdb
+
+# Metabase local plugins
+metabase/plugins/

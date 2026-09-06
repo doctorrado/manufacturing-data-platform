@@ -5,6 +5,11 @@ An end-to-end data engineering and analytics platform that simulates a manufactu
 The project is designed to demonstrate practical data engineering skills in a manufacturing context, with a focus on data quality, warehouse design, and Overall Equipment Effectiveness (OEE).
 
 <img width="1884" height="952" alt="Screenshot From 2026-09-06 12-36-00" src="https://github.com/user-attachments/assets/745012cd-7398-4eeb-baf7-9550c5e67d41" />
+<img width="1864" height="963" alt="Screenshot From 2026-09-06 12-36-28" src="https://github.com/user-attachments/assets/430dfbda-e056-440b-b213-1f51e4360e73" />
+<img width="1864" height="963" alt="Screenshot From 2026-09-06 12-36-38" src="https://github.com/user-attachments/assets/301d5dae-ac70-4920-b844-9029e9cdc252" />
+<img width="1864" height="963" alt="Screenshot From 2026-09-06 12-36-42" src="https://github.com/user-attachments/assets/8dddc549-271c-484b-8342-5394c9397e54" />
+
+
 
 
 ---
